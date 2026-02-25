@@ -1,0 +1,31 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.eggs/
+dist/
+build/
+*.so
+
+# IDE / OS
+.vscode/
+.idea/
+*.swp
+*~
+Thumbs.db
+.DS_Store
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Large generated files
+data/gpcrdb_residues_cache.json
+data/esm2_bw_embeddings.npz
+data/esm2_35m_bw_embeddings.npz
+data/esm2_embeddings.npy
+data/esm2_entries.json
+data/structures/*.pdb
+
+# Figure exports
+figures/
+*.pdf

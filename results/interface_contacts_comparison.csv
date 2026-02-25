@@ -1,0 +1,30 @@
+BW_site,region,FDR_sig,7SRS_contact,6WHA_contact,6CMO_contact,specificity
+34.50,ICL2,True,False,False,False,No contact
+34.51,ICL2,False,False,False,False,No contact
+34.52,ICL2,False,False,False,False,No contact
+34.53,ICL2,True,False,False,False,No contact
+34.54,ICL2,False,True,False,False,Gq-specific
+34.55,ICL2,False,False,False,False,No contact
+34.56,ICL2,False,False,False,False,No contact
+34.57,ICL2,False,False,False,False,No contact
+3.49,TM3,False,False,False,False,No contact
+3.50,TM3-DRY,False,False,False,False,No contact
+3.51,TM3-DRY,False,False,False,False,No contact
+3.53,TM3,True,False,False,False,No contact
+3.54,TM3,False,False,False,False,No contact
+3.55,TM3,False,False,False,False,No contact
+3.56,TM3,False,False,False,False,No contact
+5.61,TM5,False,False,False,False,No contact
+5.64,TM5,False,False,False,False,No contact
+5.65,TM5,True,False,False,False,No contact
+5.67,TM5,False,False,False,False,No contact
+5.68,TM5,False,False,False,False,No contact
+5.69,TM5,False,False,False,False,No contact
+5.71,TM5,True,False,False,False,No contact
+6.32,TM6,False,False,False,False,No contact
+6.33,TM6,False,False,False,False,No contact
+6.36,TM6,False,False,False,False,No contact
+6.37,TM6,False,False,False,False,No contact
+8.47,H8,False,False,False,False,No contact
+8.48,H8,False,False,False,False,No contact
+8.49,H8,False,False,False,False,No contact
