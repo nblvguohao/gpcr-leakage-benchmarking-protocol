@@ -1,0 +1,23 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite the accompanying paper."
+title: "GPCR Coupling Leakage Benchmarking Protocol"
+type: software
+authors:
+  - family-names: Lv
+    given-names: Guohao
+    affiliation: "School of Information and Artificial Intelligence, Anhui Agricultural University"
+  - family-names: Gu
+    given-names: Lichuan
+    affiliation: "School of Information and Artificial Intelligence, Anhui Agricultural University"
+repository-code: "https://github.com/nblvguohao/gpcr-leakage-benchmarking-protocol"
+license: MIT
+preferred-citation:
+  type: article
+  authors:
+    - family-names: Lv
+      given-names: Guohao
+    - family-names: Gu
+      given-names: Lichuan
+  title: "Addressing data leakage in GPCR-G protein coupling prediction: a benchmarking protocol with structure-aligned determinants and melanopsin case study"
+  journal: "Briefings in Bioinformatics"
+  year: 2025
