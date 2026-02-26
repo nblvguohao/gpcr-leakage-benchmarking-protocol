@@ -530,7 +530,7 @@ ax.legend(loc='lower right')
 
 plt.tight_layout()
 fig_path = os.path.join(FIGURES_DIR, "fig12_esm2_bwsite_comparison.png")
-plt.savefig(fig_path, dpi=300, bbox_inches='tight')
+plt.savefig(fig_path, dpi=600, bbox_inches='tight')
 plt.savefig(fig_path.replace('.png', '.pdf'), bbox_inches='tight')
 plt.close()
 print(f"  Saved: {fig_path}")

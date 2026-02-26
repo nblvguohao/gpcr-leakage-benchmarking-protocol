@@ -370,7 +370,7 @@ def generate_multi_gprotein_figure(all_results):
     
     out_png = os.path.join(FIGURES_DIR, "fig14_multi_gprotein_bw.png")
     out_pdf = os.path.join(FIGURES_DIR, "fig14_multi_gprotein_bw.pdf")
-    plt.savefig(out_png, dpi=300, bbox_inches='tight')
+    plt.savefig(out_png, dpi=600, bbox_inches='tight')
     plt.savefig(out_pdf, bbox_inches='tight')
     plt.close()
     print(f"\nSaved: {out_png}")
@@ -427,7 +427,7 @@ def generate_dual_coupling_figure(data, bw_annotations):
     plt.tight_layout()
     out_png = os.path.join(FIGURES_DIR, "fig15_dual_coupling_bw.png")
     out_pdf = os.path.join(FIGURES_DIR, "fig15_dual_coupling_bw.pdf")
-    plt.savefig(out_png, dpi=300, bbox_inches='tight')
+    plt.savefig(out_png, dpi=600, bbox_inches='tight')
     plt.savefig(out_pdf, bbox_inches='tight')
     plt.close()
     print(f"Saved: {out_png}")

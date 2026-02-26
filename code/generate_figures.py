@@ -39,8 +39,8 @@ plt.rcParams.update({
     'xtick.labelsize': 9,
     'ytick.labelsize': 9,
     'legend.fontsize': 9,
-    'figure.dpi': 300,
-    'savefig.dpi': 300,
+    'figure.dpi': 600,
+    'savefig.dpi': 600,
     'savefig.bbox': 'tight',
     'savefig.pad_inches': 0.1,
 })
@@ -126,8 +126,8 @@ def fig2_leakage_benchmark():
 
     plt.tight_layout()
     path = os.path.join(FIGURES_DIR, "fig2_leakage_benchmark.png")
-    plt.savefig(path, dpi=400)
-    plt.savefig(path.replace('.png', '.pdf'), dpi=400)
+    plt.savefig(path, dpi=600)
+    plt.savefig(path.replace('.png', '.pdf'), dpi=600)
     plt.close()
     print(f"  ✓ {path}")
 
@@ -172,8 +172,8 @@ def fig3_model_comparison():
 
     plt.tight_layout()
     path = os.path.join(FIGURES_DIR, "fig3_model_comparison.png")
-    plt.savefig(path, dpi=400)
-    plt.savefig(path.replace('.png', '.pdf'), dpi=400)
+    plt.savefig(path, dpi=600)
+    plt.savefig(path.replace('.png', '.pdf'), dpi=600)
     plt.close()
     print(f"  ✓ {path}")
 
@@ -232,8 +232,8 @@ def fig4_bw_manhattan():
 
     plt.tight_layout()
     path = os.path.join(FIGURES_DIR, "fig4_bw_manhattan.png")
-    plt.savefig(path, dpi=400)
-    plt.savefig(path.replace('.png', '.pdf'), dpi=400)
+    plt.savefig(path, dpi=600)
+    plt.savefig(path.replace('.png', '.pdf'), dpi=600)
     plt.close()
     print(f"  ✓ {path}")
 
@@ -265,8 +265,8 @@ def fig5_ablation():
 
     plt.tight_layout()
     path = os.path.join(FIGURES_DIR, "fig5_ablation.png")
-    plt.savefig(path, dpi=400)
-    plt.savefig(path.replace('.png', '.pdf'), dpi=400)
+    plt.savefig(path, dpi=600)
+    plt.savefig(path.replace('.png', '.pdf'), dpi=600)
     plt.close()
     print(f"  ✓ {path}")
 
@@ -291,8 +291,8 @@ def fig6_permutation_importance():
 
     plt.tight_layout()
     path = os.path.join(FIGURES_DIR, "fig6_permutation_importance.png")
-    plt.savefig(path, dpi=400)
-    plt.savefig(path.replace('.png', '.pdf'), dpi=400)
+    plt.savefig(path, dpi=600)
+    plt.savefig(path.replace('.png', '.pdf'), dpi=600)
     plt.close()
     print(f"  ✓ {path}")
 

@@ -404,8 +404,8 @@ ax.set_title('Experimental GPCR–G Protein Interface Contacts at BW Positions\n
 
 plt.tight_layout()
 fig_path = os.path.join(FIGURES_DIR, "fig13_interface_comparison.png")
-plt.savefig(fig_path, dpi=450, bbox_inches='tight')
-plt.savefig(fig_path.replace('.png', '.pdf'), dpi=450, bbox_inches='tight')
+plt.savefig(fig_path, dpi=600, bbox_inches='tight')
+plt.savefig(fig_path.replace('.png', '.pdf'), dpi=600, bbox_inches='tight')
 plt.close()
 print(f"Saved: {fig_path}")
 print(f"Saved: {csv_path}")

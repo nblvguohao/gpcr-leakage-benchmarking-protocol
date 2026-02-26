@@ -16,8 +16,20 @@ preferred-citation:
   authors:
     - family-names: Lv
       given-names: Guohao
+    - family-names: Xia
+      given-names: Yingchun
+    - family-names: Li
+      given-names: Xiaowei
+    - family-names: Liu
+      given-names: Huichao
+    - family-names: Zhu
+      given-names: Xiaolei
+    - family-names: Yang
+      given-names: Shuai
+    - family-names: Wang
+      given-names: Qingyong
     - family-names: Gu
       given-names: Lichuan
-  title: "Addressing data leakage in GPCR-G protein coupling prediction: a benchmarking protocol with structure-aligned determinants and melanopsin case study"
+  title: "Leakage-aware benchmarking of GPCR-G protein coupling prediction with structure-aligned determinants"
   journal: "Briefings in Bioinformatics"
-  year: 2025
+  year: 2026

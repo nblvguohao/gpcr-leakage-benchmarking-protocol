@@ -596,7 +596,7 @@ def run_shap_comparison():
 
     plt.tight_layout()
     out_path = os.path.join(FIGURES_DIR, "fig_shap_comparison_opn4_rho.png")
-    plt.savefig(out_path, dpi=300, bbox_inches='tight')
+    plt.savefig(out_path, dpi=600, bbox_inches='tight')
     plt.savefig(out_path.replace('.png', '.pdf'), bbox_inches='tight')
     plt.close()
     print(f"Saved: {out_path}")
@@ -665,7 +665,7 @@ def generate_revised_auc_figure():
 
     plt.tight_layout()
     out_path = os.path.join(FIGURES_DIR, "fig1_revised_auc_errorbars.png")
-    plt.savefig(out_path, dpi=300, bbox_inches='tight')
+    plt.savefig(out_path, dpi=600, bbox_inches='tight')
     plt.savefig(out_path.replace('.png', '.pdf'), bbox_inches='tight')
     plt.close()
     print(f"Saved: {out_path}")

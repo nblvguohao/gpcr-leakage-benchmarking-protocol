@@ -1,6 +1,6 @@
 ﻿# GPCR Coupling Leakage Benchmarking Protocol
 
-**Addressing data leakage in GPCR-G protein coupling prediction: a benchmarking protocol with structure-aligned determinants and melanopsin case study**
+**Leakage-aware benchmarking of GPCR--G protein coupling prediction with structure-aligned determinants**
 
 Guohao Lv, Lichuan Gu — School of Information and Artificial Intelligence, Anhui Agricultural University
 
@@ -116,7 +116,7 @@ All analyses are reproducible from public data:
 
 If you use this code or protocol, please cite:
 
-> Lv G, Gu L. Addressing data leakage in GPCR-G protein coupling prediction: a benchmarking protocol with structure-aligned determinants and melanopsin case study. *Briefings in Bioinformatics*, 2025.
+> Lv G, Xia Y, Li X, Liu H, Zhu X, Yang S, Wang Q, Gu L. Leakage-aware benchmarking of GPCR-G protein coupling prediction with structure-aligned determinants. *Briefings in Bioinformatics*, 2026.
 
 ## License
 
