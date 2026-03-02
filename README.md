@@ -1,8 +1,8 @@
 ﻿# GPCR Coupling Leakage Benchmarking Protocol
 
-**Leakage-aware benchmarking of GPCR--G protein coupling prediction with structure-aligned determinants**
+**Leakage-aware machine learning benchmarking with structure-aligned feature engineering for GPCR--G protein coupling prediction**
 
-Guohao Lv, Lichuan Gu — School of Information and Artificial Intelligence, Anhui Agricultural University
+Guohao Lv, Lichuan Gu — School of Artificial Intelligence; Anhui Provincial Key Laboratory of Smart Agricultural Technology and Equipment, Anhui Agricultural University
 
 ---
 
@@ -116,7 +116,7 @@ All analyses are reproducible from public data:
 
 If you use this code or protocol, please cite:
 
-> Lv G, Xia Y, Li X, Liu H, Zhu X, Yang S, Wang Q, Gu L. Leakage-aware benchmarking of GPCR-G protein coupling prediction with structure-aligned determinants. *Briefings in Bioinformatics*, 2026.
+> Lv G, Xia Y, Li X, Liu H, Zhu X, Yang S, Wang Q, Gu L. Leakage-aware machine learning benchmarking with structure-aligned feature engineering for GPCR-G protein coupling prediction. *Engineering Applications of Artificial Intelligence*, 2026.
 
 ## License
 

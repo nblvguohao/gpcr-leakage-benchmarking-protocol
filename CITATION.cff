@@ -5,10 +5,10 @@ type: software
 authors:
   - family-names: Lv
     given-names: Guohao
-    affiliation: "School of Information and Artificial Intelligence, Anhui Agricultural University"
+    affiliation: "School of Artificial Intelligence; Anhui Provincial Key Laboratory of Smart Agricultural Technology and Equipment, Anhui Agricultural University"
   - family-names: Gu
     given-names: Lichuan
-    affiliation: "School of Information and Artificial Intelligence, Anhui Agricultural University"
+    affiliation: "School of Artificial Intelligence; Anhui Provincial Key Laboratory of Smart Agricultural Technology and Equipment, Anhui Agricultural University"
 repository-code: "https://github.com/nblvguohao/gpcr-leakage-benchmarking-protocol"
 license: MIT
 preferred-citation:
@@ -30,6 +30,6 @@ preferred-citation:
       given-names: Qingyong
     - family-names: Gu
       given-names: Lichuan
-  title: "Leakage-aware benchmarking of GPCR-G protein coupling prediction with structure-aligned determinants"
-  journal: "Briefings in Bioinformatics"
+  title: "Leakage-aware machine learning benchmarking with structure-aligned feature engineering for GPCR-G protein coupling prediction"
+  journal: "Engineering Applications of Artificial Intelligence"
   year: 2026
